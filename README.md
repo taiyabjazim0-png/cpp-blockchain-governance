@@ -149,13 +149,11 @@ The server will start and expose API endpoints on **[http://localhost:8080](http
 
 ---
 
-## How to Impress with this Project
 
-* **Live Demo:** Register identities, stake tokens, create polls, and vote via API or frontend.
-* **Multi-threaded Mining:** Show how votes and transactions are mined efficiently.
-* **Blockchain Integrity:** Demonstrate `isChainValid()` before and after tampering a transaction.
-* **Merkle Proofs:** Show verification of individual votes using Merkle proofs.
-* **Dynamic Difficulty:** Show how mining difficulty adjusts automatically based on block times.
+* **Multi-threaded Mining:** Shows how votes and transactions are mined efficiently.
+* **Blockchain Integrity:** Demonstrates `isChainValid()` before and after tampering a transaction.
+* **Merkle Proofs:** Shows verification of individual votes using Merkle proofs.
+* **Dynamic Difficulty:** Shows how mining difficulty adjusts automatically based on block times.
 
 ---
 
